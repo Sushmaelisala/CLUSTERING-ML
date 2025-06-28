@@ -43,15 +43,15 @@ Cluster Annotations: Brief user persona descriptions for each cluster (e.g., hig
 
 <h1>🧠 Technologies Used</h1>
 
-Python
-Jupyter Notebook
-Scikit-learn
-Pandas
-NumPy
-Matplotlib / Seaborn (if plots are included)
-HTML export from Jupyter
+- Python
+- Jupyter Notebook
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib / Seaborn (if plots are included)
+- HTML export from Jupyter
 
 <h1>📊 Project Highlights</h1>
-Exploratory data analysis
-Model selection and training
-Performance metrics evaluation
+- Exploratory data analysis
+- Model selection and training
+- Performance metrics evaluation
