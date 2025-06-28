@@ -52,6 +52,6 @@ Cluster Annotations: Brief user persona descriptions for each cluster (e.g., hig
 - HTML export from Jupyter
 
 <h1>📊 Project Highlights</h1>
-- Exploratory data analysis
-- Model selection and training
-- Performance metrics evaluation
+* Exploratory data analysis
+* Model selection and training
+* Performance metrics evaluation
