@@ -1,5 +1,5 @@
 # CLUSTERING-ML
-This project implements a machine learning-based system for efficient car assignment using various regression technique.
+This project demonstrates unsupervised machine learning using clustering algorithms.
 
 <h1>The Art of Clustering</h1>
 This project demonstrates unsupervised machine learning using clustering algorithms. It involves grouping data points based on similarity without predefined labels. Techniques like K-Means,K-Medoids,Hierarchical with Single and Complete are applied to visualize and interpret patterns within the dataset.
